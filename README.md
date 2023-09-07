@@ -1,1 +1,2 @@
-These are ExcelR Data Analytics Assignments.
+These are my Data Analytics Assignments and Personal Projects.
+Thanks.
